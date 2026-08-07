@@ -12,7 +12,7 @@ Java basics, control structures, string handling, functions, and exception handl
 OOP concepts in Java: classes, objects, inheritance, polymorphism, and interfaces.
 **Status: In progress**
 
-### Course 3: Java App Development Project: Fundamentals, OOP & File I/O
+### [Course 3: Java App Development Project: Fundamentals, OOP & File I/O](./Course-3-Java-App-Development-Project)
 Capstone course applying everything from Courses 1 and 2 into a full application with file I/O.
 **Status: Not started**
 
