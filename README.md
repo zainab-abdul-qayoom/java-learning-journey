@@ -1,21 +1,21 @@
-# Java Programming for Beginners (IBM)
+# Java Learning Journey
 
-📍 Course: [Coursera - Java Programming for Beginners](https://www.coursera.org/learn/java-for-programming-beginners)
+A structured record of my progress through the IBM Java Developer Professional Certificate on Coursera, course by course, module by module.
 
-Part of the **IBM Java Developer Professional Certificate**.
+## Courses
 
-## What This Covers
-- Java basics: syntax, data types, operators, arrays
-- Control structures: conditionals, loops
-- String handling, functions & methods
-- Exception handling (try/catch/finally)
-- Final project + certificate exam
+### [Course 1: Java Programming for Beginners](./Course-1-Java-Programming-for-Beginners)
+Java basics, control structures, string handling, functions, and exception handling. Includes revision notes for every topic, lab writeups, glossaries, coding cheat sheets, and the final project.
+**Status: Complete** ✅
 
-## Modules
-1. Welcome to the Course
-2. Getting Started with Java
-3. Basic Programming Constructs
-4. Control Structures & String Handling
-5. Handling Exceptions
-6. Final Project & Assessment
-7. Course Wrap Up
+### [Course 2: Object Oriented Programming in Java](./Course-2-Object-Oriented-Programming-in-Java)
+OOP concepts in Java: classes, objects, inheritance, polymorphism, and interfaces.
+**Status: In progress**
+
+### Course 3: Java App Development Project: Fundamentals, OOP & File I/O
+Capstone course applying everything from Courses 1 and 2 into a full application with file I/O.
+**Status: Not started**
+
+## About this repo
+
+Each course folder is organized by module, with numbered markdown files for revision notes, lab breakdowns, glossaries, and coding cheat sheets, plus a dedicated folder for the final project of each course. The goal is a clean, browsable record of the whole certificate, not just a code dump.
